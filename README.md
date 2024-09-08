@@ -1,8 +1,8 @@
 
 # 🩸 **BloodAfya** - *Donate Blood, Save Lives*  
 
-```Connecting blood donors with those in need. Together, we can save lives.
-```
+Connecting blood donors with those in need. Together, we can save lives.
+
 
 
 ## 🚀 Project Overview
