@@ -1,4 +1,4 @@
-![BloodAfya Logo](assets/BIGLOGO.png)
+![BloodAfya Logo](./assets/BIGLOGO.png)
 ---
 
 # 🩸 **BloodAfya** - *Donate Blood, Save Lives*
