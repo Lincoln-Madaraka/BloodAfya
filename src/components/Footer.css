@@ -1,0 +1,27 @@
+footer {
+    background-color: #00274d; /* Dark Blue */
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 1rem;
+  }
+  
+  .social-links {
+    margin-top: 0.5rem;
+  }
+  
+  .social-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 0.5rem;
+    font-size: 1rem;
+  }
+  
+  .social-links a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,16 @@
+.background-slider {
+    width: 100%;
+    height: 400px; /* Adjust height as needed */
+    background-size: cover;
+    background-position: center;
+    animation: slide 20s infinite;
+  }
+  
+  @keyframes slide {
+    0% { background-image: url('../assets/Blood Donation campaign.jpeg'); }
+    25% { background-image: url('../assets/Blood3.jpeg'); }
+    50% { background-image: url('../assets/Blogotoo.jpeg'); }
+    75% { background-image: url('../assets/Bdona.jpeg'); }
+    100% { background-image: url('../assets/Blood Donation campaign.jpeg'); }
+  }
+  
