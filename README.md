@@ -1,4 +1,4 @@
-BLOODAFYA WHATS AND WHATNOTS
+![BloodAfya Logo](assets/BIGLOGO.png)
 ---
 
 # 🩸 **BloodAfya** - *Donate Blood, Save Lives*
