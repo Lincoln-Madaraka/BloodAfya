@@ -1,13 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import BIGLOGO from '../assets/BIGLOGO.png';
-import './Header.css'; // Assuming you add styles here
+import './Header.css'; 
 
 const Header = () => {
   return (
     <header>
       <img src={BIGLOGO} alt="BIGLOGO" onClick={() => window.location.href = '/'} />
-      <nav>
+      <nav class>
         <ul>
           <li><Link to="/">Home</Link></li>
           <li><Link to="/faq">FAQ</Link></li>
