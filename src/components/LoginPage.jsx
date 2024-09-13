@@ -3,25 +3,23 @@ import './LoginPage.css'; // Assuming you add styles here
 
 const LoginPage = () => {
   return (
-    <section className="login-page">
-      <h1>Login or Sign Up</h1>
-      <div className="login-options">
-        <div className="guest-login">
-          <h2>Continue as Guest</h2>
-          <button>Continue without sign up</button>
-        </div>
-        <div className="user-login">
-          <h2>Login</h2>
-          <form>
-            <label>Email/Phone</label>
-            <input type="text" />
-            <label>Password</label>
-            <input type="password" />
-            <button type="submit">Login</button>
-          </form>
-        </div>
+    <div className="login-container">
+      <div className="left-div">
+        <h2>Guests/New Users</h2>
+        <button className="signup-button">Sign Up</button>
+        <p className="join-text">Join BloodAfya Today, Let's impact lives.</p>
+        <hr className="divider"/>
+        <a href="#" className="continue-link">Continue without signing up</a>
       </div>
-    </section>
+    <div className="right-div">
+        <h2>Users/Login</h2>
+        <input type="text" placeholder="Email/Phone number" className="input-field" />
+        <input type="password" placeholder="Password" className="input-field" />
+        <button className="login-button">Login</button>
+        <hr className="divider" />
+        <a href="#" className="continue-link">Forgot Password?</a>
+      </div>
+    </div>
   );
 };
 
