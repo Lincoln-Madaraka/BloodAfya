@@ -1,6 +1,7 @@
 .faq-page {
     padding: 2rem;
     background-color: white;
+    max-width:  100%;
   }
   
   .faq-item {
@@ -16,4 +17,3 @@
     font-size: 1rem;
     color: #666;
   }
-  
