@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import BIGLOGO from '../assets/BIGLOGO.png';
+import BIGLOGO from '/assets/BIGLOGO.png';
 import './Header.css'; 
 
 const Header = () => {
